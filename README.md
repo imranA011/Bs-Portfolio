@@ -5,4 +5,4 @@ This repo belongs to:
 # BOOTSTRAP
 
 # My-Portfolio-bs
-https://imrana011.github.io/My-Portfolio-bs/
+https://imrana011.github.io/Bs-Portfolio/
